@@ -1,4 +1,4 @@
-# prueba
+# ParkingNow
 
 Aplicación móvil multiplataforma para gestión de estacionamientos.
 
